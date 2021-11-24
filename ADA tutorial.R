@@ -1,6 +1,2 @@
-This is a comment in R studio
-
-## Header 1
-
-## Header 2
-
+#Comment 1
+#Comment 2
